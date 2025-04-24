@@ -41,3 +41,38 @@ This project is driven by key questions aimed at understanding the patterns and 
 6 Predictive Potential
 
 ~ Based on exploratory insights, which features may serve as potential predictors for a classification model?
+
+
+
+## 🔍 Project Process
+This project follows a step-by-step data analysis pipeline to explore and understand the factors contributing to heart disease:
+
+1 Data Collection
+
+~ Used a structured medical dataset containing patient information such as age, gender, cholesterol levels, blood pressure, heart rate, and more.
+
+2 Data Cleaning & Preprocessing
+
+~ Checked for and handled missing values and outliers.
+
+~ Converted categorical features into numerical format using encoding techniques for easier analysis.
+
+3 Exploratory Data Analysis (EDA)
+
+~ Visualized distributions and relationships between variables using libraries like Matplotlib and Seaborn.
+
+~ Analyzed the correlation between different health indicators and the presence of heart disease.
+
+4 Feature Analysis
+
+~ Identified key features that significantly impact the likelihood of heart disease.
+
+~ Investigated patterns based on demographics, symptoms, and diagnostic results.
+
+5 Interpretation & Insight Generation
+
+~ Derived data-driven insights from trends and visual patterns to support healthcare decision-making.
+
+~ Laid the foundation for predictive modeling in future phases of the project.
+
+
