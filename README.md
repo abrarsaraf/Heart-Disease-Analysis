@@ -75,4 +75,17 @@ This project follows a step-by-step data analysis pipeline to explore and unders
 
 ~ Laid the foundation for predictive modeling in future phases of the project.
 
+## 📈 Project Insights
+~ Age and Gender Impact: Middle-aged and older individuals, particularly males, showed a higher likelihood of heart disease, indicating demographic risk patterns.
+
+~ Cholesterol and Blood Pressure: Elevated cholesterol and resting blood pressure levels were common among patients diagnosed with heart disease, reinforcing their role as key risk factors.
+
+~ Chest Pain Type as a Strong Indicator: Specific types of chest pain, especially atypical angina and non-anginal pain, showed strong associations with heart disease presence.
+
+~ Heart Rate and Exercise Influence: Lower maximum heart rates and the presence of exercise-induced angina were linked to higher rates of heart disease.
+
+~ ST Depression and ECG Results: Abnormal ECG results and increased ST depression during exercise further correlated with heart disease diagnoses, supporting their diagnostic importance.
+
+~ Feature Correlations Identified: Correlation analysis helped isolate the most influential features, offering valuable direction for future predictive modeling efforts.
+
 
