@@ -92,6 +92,6 @@ This project provided a comprehensive exploratory analysis of heart disease data
 
 The project showcases how data analytics can be applied in the healthcare domain to support early diagnosis and preventive care. It also lays the groundwork for building predictive models that could assist medical professionals in making informed, data-driven decisions.
 
-~ Feature Correlations Identified: Correlation analysis helped isolate the most influential features, offering valuable direction for future predictive modeling efforts.
+
 
 
